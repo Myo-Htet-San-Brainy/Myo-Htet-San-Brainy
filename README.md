@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Myo Htet San (Brainy)  
 
-<!--
-**Myo-Htet-San-Brainy/Myo-Htet-San-Brainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Web Developer**
 
-Here are some ideas to get you started:
+## 📄 Resume  
+[View My Resume](https://drive.google.com/file/d/1Kkq2iEw5ac7V3xlW8paYxsv76e-3AFWM/view?usp=drive_link)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Styling:** Tailwind CSS, CSS Modules, Styled Components  
+- **State Management:** React Context API, Redux Toolkit, Zustand  
+- **API & Data Handling:** RESTful APIs, Axios, Fetch API, React Query  
+- **Performance & Optimization:** SSR, SSG, SEO Optimization, Chrome DevTools  
+- **Testing & Debugging:** Jest, React Testing Library  
+- **Version Control:** Git, GitHub, Fork  
+
+💡 *I love learning new things and building cool projects. Let's connect!*
+
