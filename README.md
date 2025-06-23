@@ -3,7 +3,7 @@
 🚀 **Frontend Web Developer**
 
 ## 🔧 Tech Stack  
-- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Frontend:** React.js, Next.js, Express.js, MongoDB, PostgreSQL, JavaScript (ES6+), TypeScript, HTML5, CSS3  
 - **Styling:** Tailwind CSS, CSS Modules, Styled Components  
 - **State Management:** React Context API, Redux Toolkit, Zustand  
 - **API & Data Handling:** RESTful APIs, Axios, Fetch API, React Query  
