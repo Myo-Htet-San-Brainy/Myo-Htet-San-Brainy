@@ -2,9 +2,6 @@
 
 🚀 **Frontend Web Developer**
 
-## 📄 Resume  
-[View My Resume](https://drive.google.com/file/d/1Kkq2iEw5ac7V3xlW8paYxsv76e-3AFWM/view?usp=drive_link)  
-
 ## 🔧 Tech Stack  
 - **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3  
 - **Styling:** Tailwind CSS, CSS Modules, Styled Components  
